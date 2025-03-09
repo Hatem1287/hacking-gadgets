@@ -7,3 +7,4 @@
 <p><a href="post/hacking-tools-gadgets.md">Hacking Tools Gadgets</a></p>
 <p><a href="post/single-board-computer-for-hacking-gadgets.md">Single Board Computer For Hacking Gadgets</a></p>
 <p><a href="post/cool-hacking-gadgets.md">Cool Hacking Gadgets</a></p>
+<p><a href="post/elite-cable-hacking-gadget.md">Elite Cable Hacking Gadget</a></p>
