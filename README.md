@@ -11,3 +11,4 @@
 <p><a href="post/remote-control-for-hacking-gadgets.md">Remote Control For Hacking Gadgets</a></p>
 <p><a href="post/ethical-hacking-gadgets.md">Ethical Hacking Gadgets</a></p>
 <p><a href="post/illegal-hacking-gadgets.md">Illegal Hacking Gadgets</a></p>
+<p><a href="post/illegal-hacking-gadgets-remote-control.md">Illegal Hacking Gadgets Remote Control</a></p>
