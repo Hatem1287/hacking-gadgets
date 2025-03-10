@@ -15,3 +15,4 @@
 <p><a href="post/cell-phone-hacking-gadgets.md">Cell Phone Hacking Gadgets</a></p>
 <p><a href="post/physical-software-for-hacking-gadgets.md">Physical Software For Hacking Gadgets</a></p>
 <p><a href="post/signal-watch-hacking-gadget.md">Signal Watch Hacking Gadget</a></p>
+<p><a href="post/shocking-gadgets.md">Shocking Gadgets</a></p>
