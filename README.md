@@ -19,3 +19,4 @@
 <p><a href="post/hacking-tech-gadgets.md">Hacking Tech Gadgets</a></p>
 <p><a href="post/walking-gadgets.md">Walking Gadgets</a></p>
 <p><a href="post/walking-gadgets-for-men.md">Walking Gadgets For Men</a></p>
+<p><a href="post/walking-gadgets-for-women.md">Walking Gadgets For Women</a></p>
