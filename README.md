@@ -29,3 +29,4 @@
 <p><a href="post/life-hacking-gadgets.md">Life Hacking Gadgets</a></p>
 <p><a href="post/flipper-zero-hacking-gadgets.md">Flipper Zero Hacking Gadgets</a></p>
 <p><a href="post/small-hacking-gadgets.md">Small Hacking Gadgets</a></p>
+<p><a href="post/all-hacking-gadgets.md">All Hacking Gadgets</a></p>
