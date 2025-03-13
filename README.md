@@ -32,3 +32,4 @@
 <p><a href="post/all-hacking-gadgets.md">All Hacking Gadgets</a></p>
 <p><a href="post/new-hacking-gadgets.md">New Hacking Gadgets</a></p>
 <p><a href="post/mini-hacking-gadgets.md">Mini Hacking Gadgets</a></p>
+<p><a href="post/hacking-gadgets-2025.md">Hacking Gadgets 2025</a></p>
