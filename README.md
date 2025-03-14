@@ -37,3 +37,4 @@
 <p><a href="post/hacking-gadgets-flipper.md">Hacking Gadgets Flipper</a></p>
 <p><a href="post/hacking-gadgets-amazon.md">Hacking Gadgets Amazon</a></p>
 <p><a href="post/hacked-gadgets-air-wick.md">Hacked Gadgets Air Wick</a></p>
+<p><a href="post/hacking-tools-and-techniques.md">Hacking Tools And Techniques</a></p>
