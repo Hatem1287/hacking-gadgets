@@ -35,3 +35,4 @@
 <p><a href="post/hacking-gadgets-2025.md">Hacking Gadgets 2025</a></p>
 <p><a href="post/hacking-gadgets-list.md">Hacking Gadgets List</a></p>
 <p><a href="post/hacking-gadgets-flipper.md">Hacking Gadgets Flipper</a></p>
+<p><a href="post/hacking-gadgets-amazon.md">Hacking Gadgets Amazon</a></p>
