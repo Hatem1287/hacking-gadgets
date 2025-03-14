@@ -40,3 +40,4 @@
 <p><a href="post/hacking-tools-and-techniques.md">Hacking Tools And Techniques</a></p>
 <p><a href="post/hacking-tools-ai-free.md">Hacking Tools Ai Free</a></p>
 <p><a href="post/hacking-tools-ai.md">Hacking Tools Ai</a></p>
+<p><a href="post/hacker-gadgets-amazon.md">Hacker Gadgets Amazon</a></p>
