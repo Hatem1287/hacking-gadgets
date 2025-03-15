@@ -45,3 +45,4 @@
 <p><a href="post/hacking-tools-and-gadgets.md">Hacking Tools And Gadgets</a></p>
 <p><a href="post/hacking-gadgets-under-500-amazon.md">Hacking Gadgets Under 500 Amazon</a></p>
 <p><a href="post/gadgets-hackers-use.md">Gadgets Hackers Use</a></p>
+<p><a href="post/hacking-gadgets-2022.md">Hacking Gadgets 2022</a></p>
