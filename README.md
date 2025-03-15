@@ -43,3 +43,4 @@
 <p><a href="post/hacker-gadgets-amazon.md">Hacker Gadgets Amazon</a></p>
 <p><a href="post/hacking-tools-arch-linux.md">Hacking Tools Arch Linux</a></p>
 <p><a href="post/hacking-tools-and-gadgets.md">Hacking Tools And Gadgets</a></p>
+<p><a href="post/hacking-gadgets-under-500-amazon.md">Hacking Gadgets Under 500 Amazon</a></p>
