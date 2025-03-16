@@ -51,3 +51,4 @@
 <p><a href="post/best-hacking-gadgets-under-500.md">Best Hacking Gadgets Under 500</a></p>
 <p><a href="post/hacking-gadgets-cheap.md">Hacking Gadgets Cheap</a></p>
 <p><a href="post/hacked-gadgets-com.md">Hacked Gadgets Com</a></p>
+<p><a href="post/hacker-gadgets-com.md">Hacker Gadgets Com</a></p>
