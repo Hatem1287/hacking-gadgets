@@ -49,3 +49,4 @@
 <p><a href="post/hacking-gadgets-you-have-to-try.md">Hacking Gadgets You Have To Try</a></p>
 <p><a href="post/best-hacking-gadgets-list.md">Best Hacking Gadgets List</a></p>
 <p><a href="post/best-hacking-gadgets-under-500.md">Best Hacking Gadgets Under 500</a></p>
+<p><a href="post/hacking-gadgets-cheap.md">Hacking Gadgets Cheap</a></p>
