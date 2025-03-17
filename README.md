@@ -52,3 +52,4 @@
 <p><a href="post/hacking-gadgets-cheap.md">Hacking Gadgets Cheap</a></p>
 <p><a href="post/hacked-gadgets-com.md">Hacked Gadgets Com</a></p>
 <p><a href="post/hacker-gadgets-com.md">Hacker Gadgets Com</a></p>
+<p><a href="post/hacking-tools-construction.md">Hacking Tools Construction</a></p>
